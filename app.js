@@ -1,3 +1,10 @@
+console.log("------------------------")
+console.log("Nama   : Siti nurviatika")
+console.log("Nim    : 20220040281")
+console.log("Kelas  : TI22A")
+console.log("-------------------------")
+
+
 const express = require('express');
 const fs = require('fs');
 const app = express();
